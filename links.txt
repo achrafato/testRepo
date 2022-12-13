@@ -1,0 +1,31 @@
+https://liaogg.medium.com/its-time-to-stop-using-create-react-app-a99917dbfc
+
+https://dev.to/spukas/preventing-xss-in-react-applications-5f5j
+
+
+
+authentication
+https://www.youtube.com/watch?v=OH6Z0dJ_Huk&ab_channel=CodeRealm
+https://www.youtube.com/watch?app=desktop&v=TDe7DRYK8vU&ab_channel=TheFullStackJunkie
+
+
+authentication native js
+https://www.youtube.com/watch?v=WSnQUKBD8g4&ab_channel=CodeForU
+
+
+
+Stop using JSON Web Tokens
+https://www.youtube.com/watch?app=desktop&v=FVmxtmzyrSw&ab_channel=CoderOne
+
+
+Grid
+https://www.youtube.com/watch?v=T2cdL-KvVaY&list=PLqhnP4YYLcb4X3AgmW699wyAhoP2SYf5j&index=1&ab_channel=Codenemy
+
+
+spotify mern
+https://www.youtube.com/watch?v=xvqXCACX9k8&ab_channel=CyberWolve
+
+
+https://hero-turko.com/tutorials/    tutorials  --- > https://egghead.io/
+
+https://translate.google.com/?hl=fr&sl=en&tl=ar&text=digesting%2C%2C%2C%20grasp%3B%20analogy%2C%2C%20credentials%3B%3B%20instruct%3B%3B%20meaningless%20%3B%3B%20outdated%20%3B%3B%20which%20is%20decoupled%20from%3B%3Bissued%3Btampering%3B%3B%20interoperability%3B%20consecutive%3B%3B%20nevertheless%20%3B%3Byou%20have%20been%20informationalied%3BMandatory%20&op=translate
